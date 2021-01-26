@@ -1,4 +1,7 @@
-/*.container{
+body{
+    background-color: blueviolet;
+}
+.container{
     background-color: blueviolet;
     border-style: groove;
     border-color: black;

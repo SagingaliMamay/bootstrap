@@ -1,0 +1,24 @@
+/*.container{
+    background-color: blueviolet;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+.col{
+    text-align: center;
+}
+.col-2{
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+}
+.col-3{
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+    text-align: center;
+}*/

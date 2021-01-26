@@ -1,0 +1,13 @@
+/*.container{
+    background-color: blueviolet;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+}
+#col-4{
+    border-radius: 5px;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+}
